@@ -1,22 +1,20 @@
-<h1 align="center">Hey Everyone! 👋, I'm Aditya Ojha</h1>
-<h3 align="center">Student.</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/drive/u/1/folders/1QRSdos0tXpUEw-udl0zM_7L0NoHi0JdL">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajchandra51&label=Profile%20views&color=0e75b6&style=flat" alt="virajchandra51" /> </p>
+# Hey Everyone! 👋, I'm Aditya Ojha
+### Passionate Learner & Aspiring Developer 🚀
 
-- 👷 <samp>Currently pursuing B.Tech in Information Technology(2021-2025) from National Institute of Technology Raipur
-- 🔭 <samp>Schooled from PCM with Computer Applications stream from Spring Dale College, ISC Board - 98.8%
-- 💬 <samp>Ask me about CP/Html/CSS/ThreeJs/React
-- 🌱 <samp>I’m currently learning Frontend/Backend Development
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: I think I am funny, with a tint of zeal and determination.
-- 📫 <samp>How to reach me virajchandra51@gmail.com
+<p align="center"> 
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 
-This my NPX card unique style to connect with me directly via console or terminal
+- 👨‍🎓 **Currently pursuing a B.Tech in Computer Science and Engineering (2022-2026)** at the **National Institute of Technology Raipur**.
+- 💻 Dedicated to honing my skills in **Competitive Programming (CP)** and exploring cutting-edge **Web Development** technologies.
+- 💬 Feel free to ask me about **CP**, **HTML/CSS**, **ReactJS**, and more. I'm always open to discussions and helping others!
+- 🌱 Actively learning **Frontend/Backend Development** to become a full-stack developer.
+- 🤝 Looking for opportunities to collaborate and contribute to meaningful **open-source projects**.
+- 🎯 Focused on building scalable applications, solving real-world problems, and becoming a proficient **problem solver**.
+- 🚀 Constantly experimenting with new technologies and striving to level up my **competitive programming** journey.
+- 🌐 Check out my latest projects on [GitHub](https://github.com)!
 
-👇 just hit 
-```bash
-npx virajchandra
-```
+
 
 <h3><b><samp>Connect with Me</samp></b></h3>
 
